@@ -12,4 +12,7 @@ Route::namespace('Api')->group(function () {
 
     //Vendor APIs
     include 'api/Vendor.php';
+
+    //Payment APIs
+    include 'api/Payment.php';
 });

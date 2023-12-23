@@ -166,8 +166,8 @@ class LanguagesSeeder extends BaseSeeder
                 'php_locale_code' => 'ru_RU',
                 'language' => 'Russian',
                 'order' => 100,
-                'rtl' => false,
-                'active' => false,
+                'rtl' => 1,
+                'active' => 1,
                 'created_at' => $now,
                 'updated_at' => $now,
             ], [

@@ -20,6 +20,7 @@
         "erusev/parsedown": "^1.7",
         "fakerphp/faker": "^1.17",
         "fruitcake/laravel-cors": "^2.0",
+        "goodoneuz/pay-uz": "^2.2",
         "guzzlehttp/guzzle": "^7.3",
         "intervention/image": "^2.7",
         "ixudra/curl": "^6.18",

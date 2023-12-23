@@ -14,7 +14,7 @@ class LocaleController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function change($locale = 'en')
+    public function change($locale = 'ru')
     {
         Session::put('locale', $locale);
 
